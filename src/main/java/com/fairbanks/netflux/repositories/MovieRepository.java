@@ -1,4 +1,4 @@
-package com.fairbanks.netflux.repository;
+package com.fairbanks.netflux.repositories;
 
 import com.fairbanks.netflux.domain.Movie;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;

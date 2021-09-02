@@ -1,7 +1,7 @@
 package com.fairbanks.netflux.bootstrap;
 
 import com.fairbanks.netflux.domain.Movie;
-import com.fairbanks.netflux.repository.MovieRepository;
+import com.fairbanks.netflux.repositories.MovieRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
